@@ -168,13 +168,3 @@ npm run dev               # http://localhost:3000
 | **Analytics** | Aggregate user‑level statistics (average score, improvement over time). |
 
 ---
-
-## 📸 Screenshots
-*(Add screenshots of the dashboard, upload page, and result view here – capture the UI and place the images under `public/` then reference them with markdown, e.g. `![](public/dashboard.png)`).*
-
----
-
-## 📄 License
-This project is licensed under the **MIT License** – see the `LICENSE` file for details.
-
----
