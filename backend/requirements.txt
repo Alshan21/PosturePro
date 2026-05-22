@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+mediapipe
+motor
+pymongo
+numpy
+pydantic
+pydantic-settings
+pyjwt
